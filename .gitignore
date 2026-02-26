@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+env/
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Variables de entorno
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
